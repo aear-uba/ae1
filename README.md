@@ -14,7 +14,3 @@ Algoritmos Evolutivos 1 - MIA - UBA
 - `images/` → Gráficos y esquemas para documentación.
 
 
-## 📜 Requisitos
-Para instalar las dependencias necesarias, ejecuta (si corresponde):
-```bash
-pip install -r requirements.txt
